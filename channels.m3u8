@@ -1,31 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="22ScopeNews.in@SD",22Scope News (1080p)
-https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="Andflix.in@HD",&flix HD (1080p)
-http://103.113.103.202:8001/play/a02k/index.m3u8
-#EXTINF:-1 tvg-id="Andpictures.in@HD",&pictures HD (1080p)
-http://103.229.254.25:7001/play/a033/index.m3u8
-#EXTINF:-1 tvg-id="AndpriveHD.in@SD",&prive HD (1080p)
-http://103.229.254.25:7001/play/a03f/index.m3u8
-#EXTINF:-1 tvg-id="AndTV.in@SD",&TV (576p)
-http://103.229.254.25:7001/play/a09v/index.m3u8
-#EXTINF:-1 tvg-id="AndTV.in@HD",&TV HD (1080p)
-http://103.229.254.25:7001/play/a034/index.m3u8
-#EXTINF:-1 tvg-id="AndTV.in@International",&TV International (1080p)
-https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
-#EXTINF:-1 tvg-id="Andflix.in@SD",&flix (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0523/master.m3u8
-#EXTINF:-1 tvg-id="Andflix.in@HD",&flix HD (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0540/master.m3u8
-#EXTINF:-1 tvg-id="Andpictures.in@SD",&pictures (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0521/master.m3u8
-#EXTINF:-1 tvg-id="Andpictures.in@HD",&pictures HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0547/master.m3u8
-#EXTINF:-1 tvg-id="AndxplorHD.in@HD",&xplor HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0556/master.m3u8
-#EXTINF:-1 tvg-id="AadinathTV.in@SD",Aadinath TV (396p)
-#EXTVLCOPT:http-referrer=https://keralive.com/
-https://keralive.com/yupp/tv.php?c=aadinath-tv&e=.m3u8
 #EXTINF:-1 tvg-id="AajTak.in@SD",Aaj Tak (720p)
 https://feeds.intoday.in/aajtak/api/master.m3u8
 #EXTINF:-1 tvg-id="AajTak.in@SD",Aaj Tak (404p)
