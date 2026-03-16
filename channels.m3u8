@@ -71,14 +71,10 @@ https://media.streambrothers.com:1936/8522/8522/playlist.m3u8
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 tvg-id="GTCPunjabi.in@SD",GTC Punjabi (1080p)
 https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8
-
 #EXTINF:-1 tvg-id="HamdardTV.ca@SD",Hamdard TV (1080p)
 https://tv.hamdardtv.com/hamdard/index.m3u8
-
-
 #EXTINF:-1 tvg-id="IndiaDailyLive.in@SD",India Daily Live (1080p)
 https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8
-
 #EXTINF:-1 tvg-id="IndiaToday.in@SD",India Today (720p) [Geo-blocked]
 https://amg00644-amg00644c1-ondemandkorea-amesia-10266.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-indiatoday-ondemandkoreaamesia/playlist.m3u8
 #EXTINF:-1 tvg-id="IndiaToday.in@SD",India Today (720p) [Not 24/7]
@@ -87,7 +83,6 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/INDIATODAY_StreamOrchestrator.m3u8
 #EXTINF:-1 tvg-id="IndiaTV.in@SD",India TV (720p)
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
-
 #EXTINF:-1 tvg-id="IndiaTVSpeedNews.in@HD",India TV Speed News (1080p)
 https://cc-lyf4c0hwzg5dd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lyf4c0hwzg5dd/v1/vglive-sk-479089/main.m3u8
 #EXTINF:-1 tvg-id="IndiaTVSpeedNews.in@HD",India TV Speed News (1080p)
@@ -118,62 +113,40 @@ https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
 #EXTINF:-1 tvg-id="News9Live.in@SD",News9Live (720p)
 https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8
-
 #EXTINF:-1 tvg-id="News18India.in@SD",News18 India (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
-
-
 #EXTINF:-1 tvg-id="News18PunjabHaryanaHimachal.in@SD",News18 Punjab/Haryana/Himachal (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/master.m3u8
-
-
 #EXTINF:-1 tvg-id="NewsNation.in@SD",News Nation (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
-
-
 #EXTINF:-1 tvg-id="Pitaara.in@SD",Pitaara (720p)
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="PravasiChannel.in@SD",Pravasi Channel (1080p)
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="PTCMusic.in@SD",PTC Music (720p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
 #EXTINF:-1 tvg-id="PTCPunjabi.in@SD",PTC Punjabi (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
 #EXTINF:-1 tvg-id="PTCPunjabiGold.in@SD",PTC Punjabi Gold (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
-
-
 #EXTINF:-1 tvg-id="PunjabiHits.in@SD",Punjabi Hits (1080p)
 https://stream.ottlive.co.in/punjabihits/index.m3u8
 #EXTINF:-1 tvg-id="PunjabiZindabadTV.in@SD",Punjabi Zindabad (360p) [Not 24/7]
 http://stream.pztv.online/pztv/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="RepublicTV.in@SD",Republic TV (1080p) [Geo-blocked]
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
 #EXTINF:-1 tvg-id="RepublicTV.in@SD",Republic TV (1080p)
 https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RTIndia.in@HD",RT India (1080p)
 https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SalaamTV.in@SD",Salaam TV (720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/af896be5-4743-41fc-8b6a-eb05e44f3a6e/3.m3u8
-
-
 #EXTINF:-1 tvg-id="ShemarooJosh.in@SD",Shemaroo Josh (720p)
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-id="SonyPix.in@HD",Sony Pix HD (1080p)
 http://103.229.254.25:7001/play/a0ed/index.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in@SD",Sony SAB (720p)
 http://103.229.254.25:7001/play/a09s/index.m3u8
-
 #EXTINF:-1 tvg-id="SonySAB.in@HD",Sony SAB HD (1080p)
 http://103.229.254.25:7001/play/a0db/index.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in@HD",Sony SAB HD (1080p)
@@ -210,7 +183,6 @@ http://103.121.6.5:8000/play/a063/index.m3u8
 http://103.121.6.5:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="StarSports2Hindi.in@HD",Star Sports 2 Hindi HD (480p)
 http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
-
 #EXTINF:-1 tvg-id="StarSports3.in@SD",Star Sports 3 (576p)
 http://103.121.6.5:8000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="Starnet.in@SD",Starnet (480p)
@@ -221,35 +193,22 @@ http://103.229.254.25:7001/play/a09p/index.m3u8
 http://103.229.254.25:7001/play/a09z/index.m3u8
 #EXTINF:-1 tvg-id="SteelbirdMusic.in@SD",Steelbird Music (720p) [Not 24/7]
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="TOIGlobal.in@SD",TOI Global (1080p)
 https://live.sli.ke/live/npnhm84gz9/master.m3u8
-
-
 #EXTINF:-1 tvg-id="TVPunjab.ca@SD",TV Punjab (720p) [Geo-blocked]
 https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="WION.in@SD",WION (1080p)
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="WION.in@SD",WION (720p)
 https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
-
 #EXTINF:-1 tvg-id="WION.in@SD",WION (Adaptive) (1080p)
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
 #EXTINF:-1 tvg-id="YRFMusic.in@SD",YRF Music (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="YRFMusic.in@SD",YRF Music (1080p)
 https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8
-
-
-
 #EXTINF:-1 tvg-id="ZeeBharat.in@SD",Zee Bharat (720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
-
 #EXTINF:-1 tvg-id="ZeeBusiness.in@SD",Zee Business (720p)
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-id="ZeeBusiness.in@SD",Zee Business (576p)
@@ -274,294 +233,28 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b1
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeHorrorNights.in@HD",Zee Horror Nights (1080p)
 https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeKannadaNews.in@SD",Zee Kannada News (720p)
-https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8
-#EXTINF:-1 tvg-id="ZeeMadhyaPradeshChhattisgarh.in@SD",Zee Madhya Pradesh Chhattisgarh (720p)
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8
-#EXTINF:-1 tvg-id="ZeeMalayalamNews.in@SD",Zee Malayalam News (720p)
-https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-id="ZeeNews.in@SD",Zee News (1080p)
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 #EXTINF:-1 tvg-id="ZeePunjabHaryanaHimachal.in@SD",Zee Punjab Haryana Himachal (720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8
-#EXTINF:-1 tvg-id="ZeeRajasthan.in@SD",Zee Rajasthan (720p)
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
 #EXTINF:-1 tvg-id="ZeeSouthFlix.in@HD",Zee South Flix (1080p)
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTamil.in@HD",Zee Tamil HD (360p)
-http://198.27.83.207:2550/ZEE_TAMIL_SD/index.m3u8
-#EXTINF:-1 tvg-id="ZeeTamil.in@HD",Zee Tamil HD (360p)
-http://198.27.83.207:8888/ZEE_TAMIL_SD/index.m3u8
-#EXTINF:-1 tvg-id="ZeeTeluguNews.in@SD",Zee Telugu News (720p)
-https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8
 #EXTINF:-1 tvg-id="ZeeTV.in@HD",Zee TV HD (1080p)
 http://103.229.254.25:7001/play/a0cs/index.m3u8
-#EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in@SD",Zee Uttar Pradesh/Uttarakhand (720p)
-https://duw35ict5q7th.cloudfront.net/index_3.m3u8
-#EXTINF:-1 tvg-id="ZeeZest.in@HD",Zee Zest HD (1080p)
-http://103.229.254.25:7001/play/a0dp/index.m3u8
-#EXTINF:-1 tvg-id="ZillarBartaNews.in@HD",ZillarBarta News
-https://server.zillarbarta.com/zillarbarta/index.m3u8
 #EXTINF:-1 tvg-id="Zoom.in@SD",Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="Zoom.in@Global",Zoom Global (720p)
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in@India",B4U Music (1080p)
 https://cdn-2.pishow.tv/live/415/master.m3u8
-#EXTINF:-1 tvg-id="GuaranteeNews.in@SD",Guarantee News (1080p)
-https://guaranteenews.in:8443/live/gnews/index.m3u8
-#EXTINF:-1 tvg-id="AdhyatmTV.in@SD",Adhyatm TV (720p)
-https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8
-#EXTINF:-1 tvg-id="Zing.in@SD",Zing! (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0307/master.m3u8
-#EXTINF:-1 tvg-id="ZeeZest.in@HD",Zee Zest HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0548/master.m3u8
-#EXTINF:-1 tvg-id="ZeeZest.in@SD",Zee Zest (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0516/master.m3u8
-#EXTINF:-1 tvg-id="ZeeYuva.in@SD",Zee Yuva (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0510/master.m3u8
-#EXTINF:-1 tvg-id="ZeeTV.in@HD",Zee TV HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0507/master.m3u8
-#EXTINF:-1 tvg-id="ZeeTV.in@SD",Zee TV (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0528/master.m3u8
-#EXTINF:-1 tvg-id="ZeeThirai.in@HD",Zee Thirai (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0558/master.m3u8
-#EXTINF:-1 tvg-id="ZeeThirai.in@SD",Zee Thirai SD (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0554/master.m3u8
-#EXTINF:-1 tvg-id="ZeeTelugu.in@SD",Zee Telugu (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0537/master.m3u8
-#EXTINF:-1 tvg-id="ZeeTamil.in@HD",Zee Tamil HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0557/master.m3u8
-#EXTINF:-1 tvg-id="ZeeTamil.in@SD",Zee Tamil (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0535/master.m3u8
-#EXTINF:-1 tvg-id="ZeeTalkies.in@HD",Zee Talkies HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0509/master.m3u8
-#EXTINF:-1 tvg-id="ZeeTalkies.in@SD",Zee Talkies (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0518/master.m3u8
-#EXTINF:-1 tvg-id="ZeeSarthak.in@SD",Zee Sarthak (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0555/master.m3u8
 #EXTINF:-1 tvg-id="ZeePunjabi.in@SD",Zee Punjabi (576p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0560/master.m3u8
-#EXTINF:-1 tvg-id="ZeeMarathi.in@HD",Zee Marathi HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0508/master.m3u8
-#EXTINF:-1 tvg-id="ZeeMarathi.in@SD",Zee Marathi (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0525/master.m3u8
-#EXTINF:-1 tvg-id="ZeeKeralam.in@SD",Zee Keralam SD (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0559/master.m3u8
-#EXTINF:-1 tvg-id="ZeeKannada.in@SD",Zee Kannada (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0514/master.m3u8
-#EXTINF:-1 tvg-id="ZeeClassic.in@SD",Zee Classic (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0543/master.m3u8
-#EXTINF:-1 tvg-id="ZeeCinemalu.in@SD",Zee Cinemalu (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0544/master.m3u8
-#EXTINF:-1 tvg-id="ZeeCinema.in@HD",Zee Cinema HD (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0538/master.m3u8
-#EXTINF:-1 tvg-id="ZeeCinema.in@SD",Zee Cinema (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0517/master.m3u8
-#EXTINF:-1 tvg-id="ZeeChitramandir.in@SD",Zee Chitramandir (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0351/master.m3u8
-#EXTINF:-1 tvg-id="ZeeCafe.in@HD",Zee Cafe HD (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0522/master.m3u8
-#EXTINF:-1 tvg-id="ZeeBollywood.in@SD",Zee Bollywood (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0527/master.m3u8
-#EXTINF:-1 tvg-id="ZeeBiskope.in@SD",Zee Biskope (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0561/master.m3u8
-#EXTINF:-1 tvg-id="ZeeBanglaSonar.in@SD",Zee Bangla Sonar (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0529/master.m3u8
-#EXTINF:-1 tvg-id="ZeeBangla.in@SD",Zee Bangla (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0512/master.m3u8
-#EXTINF:-1 tvg-id="ZeeAction.in@SD",Zee Action (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0531/master.m3u8
-#EXTINF:-1 tvg-id="VijayTakkar.in@SD",Vijay Takkar (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0473/master.m3u8
-#EXTINF:-1 tvg-id="VijaySuper.in@SD",Vijay Super (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0470/master.m3u8
-#EXTINF:-1 tvg-id="UdayaTV.in@SD",Udaya TV (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0569/master.m3u8
-#EXTINF:-1 tvg-id="UdayaMusic.in@SD",Udaya Music (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0588/master.m3u8
-#EXTINF:-1 tvg-id="UdayaMovies.in@SD",Udaya Movies (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0570/master.m3u8
-#EXTINF:-1 tvg-id="UdayaComedy.in@SD",Udaya Comedy (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0574/master.m3u8
-#EXTINF:-1 tvg-id="TimesNowWorld.in@SD",Times Now World (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0124/master.m3u8
-#EXTINF:-1 tvg-id="SuryaTV.in@SD",Surya TV (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0566/master.m3u8
-#EXTINF:-1 tvg-id="SuryaMusic.in@SD",Surya Music (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0579/master.m3u8
-#EXTINF:-1 tvg-id="SuryaMovies.in@SD",Surya Movies (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0567/master.m3u8
-#EXTINF:-1 tvg-id="SuryaComedy.in@SD",Surya Comedy (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0578/master.m3u8
-#EXTINF:-1 tvg-id="SuperHungama.in@SD",Super Hungama (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0410/master.m3u8
-#EXTINF:-1 tvg-id="SunTV.in@SD",Sun TV (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0532/master.m3u8
-#EXTINF:-1 tvg-id="SunNews.in@SD",Sun News (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0565/master.m3u8
-#EXTINF:-1 tvg-id="SunNeo.in@HD",Sun Neo HD (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0582/master.m3u8
-#EXTINF:-1 tvg-id="SunNeo.in@SD",Sun Neo (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0581/master.m3u8
-#EXTINF:-1 tvg-id="SunMusic.in@SD",Sun Music (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0563/master.m3u8
-#EXTINF:-1 tvg-id="SunMarathi.in@HD",Sun Marathi (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0576/master.m3u8
-#EXTINF:-1 tvg-id="SunMarathi.in@SD",Sun Marathi SD (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0577/master.m3u8
-#EXTINF:-1 tvg-id="SunLife.in@SD",Sun Life (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0585/master.m3u8
-#EXTINF:-1 tvg-id="SunBangla.in@SD",Sun Bangla (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0580/master.m3u8
-#EXTINF:-1 tvg-id="StarVijay.in@HD",Star Vijay HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0460/master.m3u8
-#EXTINF:-1 tvg-id="StarVijay.in@SD",Star Vijay (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0469/master.m3u8
-#EXTINF:-1 tvg-id="StarUtsavMovies.in@SD",Star Utsav Movies (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0322/master.m3u8
-#EXTINF:-1 tvg-id="StarUtsav.in@SD",Star Utsav (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0310/master.m3u8
-#EXTINF:-1 tvg-id="StarSuvarnaPlus.in@SD",Star Suvarna Plus (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0486/master.m3u8
-#EXTINF:-1 tvg-id="StarSuvarna.in@SD",Star Suvarna (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0483/master.m3u8
-#EXTINF:-1 tvg-id="StarSportsKhel.in@SD",Star Sports Khel (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0423/master.m3u8
-#EXTINF:-1 tvg-id="StarSports3.in@SD",Star Sports 3 (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0414/master.m3u8
-#EXTINF:-1 tvg-id="StarSports2Telugu.in@HD",Star Sports 2 Telugu HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0513/master.m3u8
-#EXTINF:-1 tvg-id="StarSports2Telugu.in@SD",Star Sports 2 Telugu (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0424/master.m3u8
-#EXTINF:-1 tvg-id="StarSports2Tamil.in@HD",Star Sports 2 Tamil HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0073/master.m3u8
-#EXTINF:-1 tvg-id="StarSports2Tamil.in@SD",Star Sports 2 Tamil (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0425/master.m3u8
-#EXTINF:-1 tvg-id="StarSports2Kannada.in@SD",Star Sports 2 Kannada (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0422/master.m3u8
-#EXTINF:-1 tvg-id="StarSports2Hindi.in@HD",Star Sports 2 Hindi HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0446/master.m3u8
-#EXTINF:-1 tvg-id="StarSports2Hindi.in@SD",Star Sports 2 Hindi (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0416/master.m3u8
-#EXTINF:-1 tvg-id="StarSports2.in@HD",Star Sports 2 HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0442/master.m3u8
-#EXTINF:-1 tvg-id="StarSports2.in@SD",Star Sports 2 (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0413/master.m3u8
-#EXTINF:-1 tvg-id="StarSports1Telugu.in@SD",Star Sports 1 Telugu (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0421/master.m3u8
-#EXTINF:-1 tvg-id="StarSports1Tamil.in@HD",Star Sports 1 Tamil HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0472/master.m3u8
-#EXTINF:-1 tvg-id="StarSports1Tamil.in@SD",Star Sports 1 Tamil (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0419/master.m3u8
-#EXTINF:-1 tvg-id="StarSports1Kannada.in@SD",Star Sports 1 Kannada (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0420/master.m3u8
-#EXTINF:-1 tvg-id="StarSports1Hindi.in@HD",Star Sports 1 Hindi HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0443/master.m3u8
-#EXTINF:-1 tvg-id="StarSports1Hindi.in@SD",Star Sports 1 Hindi (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0415/master.m3u8
-#EXTINF:-1 tvg-id="StarSports1.in@HD",Star Sports 1 HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0441/master.m3u8
-#EXTINF:-1 tvg-id="StarSports1.in@SD",Star Sports 1 (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0412/master.m3u8
-#EXTINF:-1 tvg-id="StarPravah.in@HD",Star Pravah HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0453/master.m3u8
-#EXTINF:-1 tvg-id="StarPravah.in@SD",Star Pravah (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0466/master.m3u8
-#EXTINF:-1 tvg-id="StarPlus.in@SD",StarPlus (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0386/master.m3u8
-#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD",Star Movies Select HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0440/master.m3u8
-#EXTINF:-1 tvg-id="StarMoviesSelect.in@SD",Star Movies Select (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0404/master.m3u8
-#EXTINF:-1 tvg-id="StarMovies.in@HD",Star Movies HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0439/master.m3u8
-#EXTINF:-1 tvg-id="StarMovies.in@SD",Star Movies (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0403/master.m3u8
-#EXTINF:-1 tvg-id="StarMaa.in@SD",Star Maa (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0478/master.m3u8
-#EXTINF:-1 tvg-id="StarMaaMusic.in@SD",Star Maa Music (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0481/master.m3u8
-#EXTINF:-1 tvg-id="StarMaaMovies.in@SD",Star Maa Movies (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0479/master.m3u8
-#EXTINF:-1 tvg-id="StarMaaGold.in@SD",Star Maa Gold (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0480/master.m3u8
-#EXTINF:-1 tvg-id="JalshaMovies.in@SD",Jalsha Movies (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0463/master.m3u8
-#EXTINF:-1 tvg-id="StarJalsha.in@HD",Star Jalsha HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0457/master.m3u8
-#EXTINF:-1 tvg-id="StarJalsha.in@SD",Star Jalsha (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0462/master.m3u8
-#EXTINF:-1 tvg-id="StarGoldThrills.in@SD",Star Gold Thrills (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0396/master.m3u8
-#EXTINF:-1 tvg-id="StarGoldSelect.in@HD",Star Gold Select HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0434/master.m3u8
-#EXTINF:-1 tvg-id="StarGoldSelect.in@SD",Star Gold Select (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0395/master.m3u8
-#EXTINF:-1 tvg-id="StarGoldRomance.in@SD",Star Gold Romance (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0391/master.m3u8
-#EXTINF:-1 tvg-id="StarGold.in@HD",Star Gold HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0432/master.m3u8
-#EXTINF:-1 tvg-id="StarGold2.in@HD",Star Gold 2 HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0433/master.m3u8
-#EXTINF:-1 tvg-id="StarGold2.in@SD",Star Gold 2 (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0390/master.m3u8
-#EXTINF:-1 tvg-id="StarGold.in@SD",Star Gold (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0389/master.m3u8
-#EXTINF:-1 tvg-id="StarBharat.in@HD",Star Bharat HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0430/master.m3u8
-#EXTINF:-1 tvg-id="StarBharat.in@SD",Star Bharat (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0388/master.m3u8
-#EXTINF:-1 tvg-id="SonyYay.in@SD",Sony Yay! (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0367/master.m3u8
-#EXTINF:-1 tvg-id="SonyWah.in@SD",Sony Wah (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0361/master.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen5.in@HD",Sony Sports Ten 5 HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0377/master.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@HD",Sony Sports Ten 3 Hindi HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0366/master.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD",Sony Sports Ten 3 Hindi (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0370/master.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen2.in@HD",Sony Sports Ten 2 HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0372/master.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen2.in@SD",Sony Sports Ten 2 (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0365/master.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen1.in@HD",Sony Sports Ten 1 HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0378/master.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen1.in@SD",Sony Sports Ten 1 (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0369/master.m3u8
-#EXTINF:-1 tvg-id="SonyPix.in@HD",Sony Pix HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0376/master.m3u8
-#EXTINF:-1 tvg-id="SonyPix.in@SD",Sony Pix (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0364/master.m3u8
-#EXTINF:-1 tvg-id="SonyPal.in@SD",Sony Pal (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0383/master.m3u8
-#EXTINF:-1 tvg-id="SonyMax.in@HD",Sony Max HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0373/master.m3u8
-#EXTINF:-1 tvg-id="SonyMax2.in@SD",Sony Max 2 (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0381/master.m3u8
-#EXTINF:-1 tvg-id="SonyMax.in@SD",Sony Max (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0363/master.m3u8
-#EXTINF:-1 tvg-id="Travelxp.in@HD",Travelxp HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0118/master.m3u8
-#EXTINF:-1 tvg-id="TravelxpTamil.in@SD",Travelxp Tamil (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0202/master.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in@SD",Sony Pix (720p)
 https://edge2.roarzone.info:8447/roarzone/edge3/sony-pix-hd/index.m3u8
-#EXTINF:-1 tvg-id="TeluguOne.in@HD",Telugu One (1080p)
-https://teluguone-yupptv.vgcdn.net/v1/019be9e3f04d1ea55784338b5c3e89/019be9e4474415fc60e93459e1e808/teluguone_2500k.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in@APAC",B4U Movies APAC (720p)
 https://edge2.roarzone.info:8447/roarzone/edge3/b4u-movies-apac/index.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in@APAC",B4U Music APAC (720p)
 https://edge2.roarzone.info:8447/roarzone/edge3/b4u-music/index.m3u8
-#EXTINF:-1 tvg-id="SonyMax1.in@SD",Sony Max 1 (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0357/master.m3u8
-#EXTINF:-1 tvg-id="AamarBangla.in@SD",Aamar Bangla (720p)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SalaamTV.in@SD",Salaam TV (720p)
-https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-id="SonyAath.in@SD",Sony Aath (576p)
-https://edge2.roarzone.info:8447/roarzone/edge3/sony-aath/index.m3u8
 #EXTINF:-1 tvg-id="SonyMax2.in@SD",Sony Max 2 (576p)
 https://edge2.roarzone.info:8447/roarzone/edge3/sony-max-2/index.m3u8
 #EXTINF:-1 tvg-id="SonyMax.in@SD",Sony Max (576p)
